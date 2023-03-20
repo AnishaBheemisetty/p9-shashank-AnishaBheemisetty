@@ -1,6 +1,6 @@
-const getData = async () => {
-    var y = await "Hello World";
-    console.log(y);
+const getData =() => {
+    const welcome = "Hello World";
+    console.log(welcome);
 }
 
 console.log(1);
